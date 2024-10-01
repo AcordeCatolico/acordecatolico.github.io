@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tgo1014.secretchords",
+    "sha256_cert_fingerprints":
+    ["22:48:AA:7F:6D:C2:25:73:23:90:51:B6:2D:4A:E9:2E:6F:56:8D:43:7D:06:19:3A:F4:EE:8F:55:69:48:AF:92"]
+  }
+}]
